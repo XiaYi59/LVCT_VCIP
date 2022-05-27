@@ -1,0 +1,25 @@
+featured:
+- {name: '[J1] A Comprehensive Theoretical Evaluation of the End-to-End Performance of SoftCast-based Linear Video Delivery Schemes. A. Trioux, M. Gharbi, F.-X. Coudoux, P. Corlay', url: 'https://doi.org/10.1016/j.image.2021.116369'}
+- {name: '[J2] Temporal Information based GoP Adaptation for Linear Delivery Schemes. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1016/j.image.2019.115734'}
+- {name: '[J3] Channel Impulsive Noise Mitigation for Linear Video Coding Schemes. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/TCSVT.2019.2937451'}
+- {name: '[J4] Optimal and suboptimal channel precoding and decoding matrices for linear video coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1016/j.image.2019.06.011'}
+
+index:
+- {name: '[J1] A Comprehensive Theoretical Evaluation of the End-to-End Performance of SoftCast-based Linear Video Delivery Schemes. A. Trioux, M. Gharbi, F.-X. Coudoux, P. Corlay', url: 'https://doi.org/10.1016/j.image.2021.116369'}
+- {name: '[J2] Temporal Information based GoP Adaptation for Linear Delivery Schemes. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1016/j.image.2019.115734'}
+- {name: '[J3] Channel Impulsive Noise Mitigation for Linear Video Coding Schemes. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/TCSVT.2019.2937451'}
+- {name: '[J4] Optimal and suboptimal channel precoding and decoding matrices for linear video coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1016/j.image.2019.06.011'}
+
+- {name: '[C1] A Perceptual Study of the Decoding Process of the SoftCast Wireless Video Broadcast Scheme. A. Trioux, G. Valenzise, M. Cagnazzo, M. Kieffer, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://ieeexplore.ieee.org/document/9733474'}
+- {name: 'Related database: A Perceptual Study of the Decoding Process of the SoftCast Wireless Video Broadcast Scheme.', url: 'https://ieee-dataport.org/open-access/perceptual-study-decoding-process-softcast-wireless-video-broadcast-scheme'}
+
+- {name: '[C2] Subjective and Objective Quality Assessment of the SoftCast Video Transmission Scheme. A. Trioux, G. Valenzise, M. Cagnazzo, M. Kieffer, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1109/VCIP49819.2020.9301778'}
+- {name: 'Related database: Subjective and Objective Quality Assessment of the SoftCast Video Transmission Scheme.', url: 'https://ieee-dataport.org/open-access/subjective-and-objective-quality-assessment-softcast-video-transmission-scheme'}
+
+- {name: '[C3] Performance Assessment of the Adaptive GoP-size extension of the Wireless SoftCast Video Scheme. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1109/ISIVC49222.2021.9487549'}
+- {name: '[C4] A Reduced Complexity/Side Information Preprocessing Method for High Quality SoftCast-based Video Delivery. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1109/EUVIP47703.2019.8946224'}
+- {name: '[C5] Channel Impulsive Noise Mitigation for Linear Video Coding Schemes. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/ICASSP.2019.8682699'}
+- {name: '[C6] A Comparative Preprocessing Study for SoftCast Video Transmission. A. Trioux, F.-X. Coudoux, P. Corlay, M. Gharbi', url: 'https://doi.org/10.1109/ISIVC.2018.8709171'}
+- {name: '[C7] Precoding Matrix Design in Linear Video Coding. S. Zheng, M. Cagnazzo, and M. Kieffer', url: 'https://doi.org/10.1109/ICASSP.2018.8461287'}
+- {name: '[C8] SoftCast with per-carrier power-constrained channels. S. Zheng, M. Antonini, M. Cagnazzo, L. Guerrieri, M. Kieffer, I. Nemoianu, R. Samy, and B. Zhang', url: 'https://doi.org/10.1109/ICIP.2016.7532733'}
+- {name: '[C9] Shannon-Kotel’Nikov mappings for SoftCast-based joint source-channel video coding. M. Cagnazzo and M. Kieffer', url: 'https://doi.org/10.1109/ICIP.2015.7350967'}
